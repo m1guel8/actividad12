@@ -53,7 +53,7 @@ public class Main {
 		    
 		}
 		comentarios.add(cuenta);
-		// comentarios.add(story); no se puede porque no existe el metodo report en story
+		// comentarios.add(story); no se puede porque no existe el metodo comment en story
         comentarios.add(post);
         comentarios.add(pagina);
     }
